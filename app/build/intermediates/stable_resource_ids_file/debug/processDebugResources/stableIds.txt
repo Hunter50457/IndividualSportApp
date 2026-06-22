@@ -1,0 +1,8 @@
+com.example.individualsportapp:style/Theme.IndividualSportApp = 0x7f050000
+com.example.individualsportapp:string/app_name = 0x7f040000
+com.example.individualsportapp:drawable/ic_launcher_foreground = 0x7f020001
+com.example.individualsportapp:color/brand_dark = 0x7f010000
+com.example.individualsportapp:drawable/ic_launcher_background = 0x7f020000
+com.example.individualsportapp:mipmap/ic_launcher = 0x7f030000
+com.example.individualsportapp:color/card_bg = 0x7f010002
+com.example.individualsportapp:color/brand_green = 0x7f010001

@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.individualsportapp-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\koldyn\\Desktop\\IndividualSportApp\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2,1,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "62,16,107",
+                        "endColumns": "44,45,41",
+                        "endOffsets": "102,57,144"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,146",
+                        "endColumns": "44,45,41",
+                        "endOffsets": "95,141,183"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\koldyn\\Desktop\\IndividualSportApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "46",
+                        "endOffsets": "58"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "188",
+                        "endColumns": "46",
+                        "endOffsets": "230"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\koldyn\\Desktop\\IndividualSportApp\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "426"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "235",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "645"
+                    }
+                }
+            ]
+        }
+    ]
+}
