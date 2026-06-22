@@ -2,6 +2,10 @@
 
 **IndividualSportApp** — это индивидуальное спортивное приложение для Android, разработанное на Java в Android Studio.
 
+## Figma
+
+[Figma](https://www.figma.com/design/TXaM3uruJoMeolUal1hBVy/IndividualSportApp?node-id=1-2&p=f&t=Ch2ZtEPCAHzJQoYf-0)
+
 ## Описание проекта
 
 Приложение помогает пользователю следить за тренировками, выполнять упражнения по плану, считать индекс массы тела и контролировать ежедневную активность.
